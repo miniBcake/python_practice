@@ -1,0 +1,6 @@
+out/*
+.idea/*
+venv/*
+
+*.class
+*.pyc
