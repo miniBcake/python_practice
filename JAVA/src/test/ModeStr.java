@@ -1,3 +1,5 @@
+package src.test;
+
 public class ModeStr {
 // 문자열 code가 주어집니다.
 // code를 앞에서부터 읽으면서 만약 문자가 "1"이면 mode를 바꿉니다. mode에 따라 code를 읽어가면서 문자열 ret을 만들어냅니다.
