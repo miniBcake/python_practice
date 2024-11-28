@@ -1,4 +1,4 @@
-package test;
+package src.test;
 
 public class DupeNum {
     /*정수가 담긴 배열 array와 정수 n이 매개변수로 주어질 때,

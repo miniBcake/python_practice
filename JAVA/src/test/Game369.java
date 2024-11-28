@@ -1,4 +1,4 @@
-package test;
+package src.test;
 
 public class Game369 {
 //머쓱이는 친구들과 369게임을 하고 있습니다.

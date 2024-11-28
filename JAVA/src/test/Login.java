@@ -1,4 +1,4 @@
-package test;
+package src.test;
 
 public class Login {
     /*머쓱이는 프로그래머스에 로그인하려고 합니다.
